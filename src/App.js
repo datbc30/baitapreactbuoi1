@@ -5,6 +5,7 @@ import DemoFunction from "./Compunent/DemoFunction";
 import Exercise from "./Compunent/ Exercise/ Exercise";
 import Handle from "./Compunent/Handle/Handle";
 import DemoState from "./Compunent/DemoState/DemoState";
+import HeaderGlass from "./DemoGlass/HeaderGlass";
 
 
 function App() {
@@ -12,9 +13,10 @@ function App() {
     <div className="App">
       {/* <DemoClass /> */}
       {/* <DemoFunction /> */}
-      <Exercise />
+      {/* <Exercise /> */}
       {/* <Handle /> */}
       {/* <DemoState /> */}
+      <HeaderGlass />
     </div>
   );
 }

@@ -1,0 +1,27 @@
+.item__left{
+    position: relative;
+}
+
+.img-content{
+    position: absolute;
+    top: 126px;
+    left: 39px;
+
+}
+
+.item__right{
+    margin-left: 450px;
+}
+
+.text-content {
+    position: absolute;
+    bottom: 0px;
+    background-color: orange;
+}
+
+.BucMinh {
+    background: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}

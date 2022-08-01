@@ -1,0 +1,6 @@
+.Demo {
+    background: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}

@@ -1,0 +1,39 @@
+.content__product{
+    padding: 50px;
+}
+
+
+.item__product{
+    display: flex;
+
+}
+
+.item-1{
+    padding: 30px;
+    position: relative;
+}
+
+.item-2{
+    padding: 30px;
+}
+
+.item-1 img{
+    margin-right: 100px;
+}
+
+.item-2 img{
+    margin-left: 100px;
+}
+
+.img__header {
+    position: absolute;
+    top: 116px;
+    left: 77px;
+}
+
+.text__product{
+    position: absolute;
+    bottom: 20px;
+    left: 43px;
+    background-color: orange;
+}
